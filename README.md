@@ -2,7 +2,12 @@
 
 #### Date, 2024/05/9
 
-#### By *Gyzelle Muthoni* *Brian Kemboi* *Owen Ngarambe* *Derrick Korir* *Mark Chege*
+#### By 
+*Gyzelle Muthoni*
+*Brian Kemboi* 
+*Owen Ngarambe* 
+*Derrick Korir* 
+*Mark Chege*
         
 ## Description
 Urban Wardrobe:
