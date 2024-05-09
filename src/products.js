@@ -15,12 +15,14 @@ export const PRODUCTS = [
     price: 6000,
     productImage: north,
   },
+
   {
-    id: 1,
+    id: 9,
     productName: "Frank Ocean Graphic Tee",
     price: 3999,
     productImage: frank,
   },
+
   {
     id: 2,
     productName: "Chrome Hearts Tee",
