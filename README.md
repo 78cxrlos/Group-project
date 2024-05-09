@@ -6,7 +6,7 @@
 *Gyzelle Muthoni*,
 *Brian Kemboi* ,
 *Owen Ngarambe* ,
-*Derrick Korir* &
+*Derrick Korir* ,
 *Mark Chege*
         
 ## Description
