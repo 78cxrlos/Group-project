@@ -25,7 +25,7 @@ Git
 Git clone git@github.com:78cxrlos/Group-project.git
 
 # Live Link
-[Git]()
+https://78cxrlos.github.io/Group-project/
 
 ## Technologies used
 JavaScript
