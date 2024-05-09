@@ -1,12 +1,44 @@
-# React + Vite
+# code-challenge-Group Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#### Date, 2024/05/9
 
-Currently, two official plugins are available:
+#### By *Gyzelle Muthoni* *Brian Kemboi* *Owen Ngarambe* *Derrick Korir* *Mark Chege*
+        
+## Description
+Urban Wardrobe:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Group-project
+Urban Wardrobe-your ultimate online shop destination that for trendy and fashionable clothing apparel! Dive into our curated collection that blends urban flair with contemporary style. Explore our latest trends and elevate your wardrobe with pieces that speak to your unique style. 
 
-# Deployed link :
-https://78cxrlos.github.io/Group-project/
+## Installation
+You use git clone to be able to download the documents in the GitHub
+
+## Installation Requirements
+Git
+
+
+
+### Installation instruction
+
+Git clone git@github.com:78cxrlos/Group-project.git
+
+# Live Link
+[Git]()
+
+## Technologies used
+JavaScript
+
+Html
+
+React + Vite
+
+Css
+
+Github
+
+## Support and contact details
+github.com/78cxrlos
+
+### License
+The content of this site is licensed under the MIT license
+Copyright (c) 2024 78cxrlos
+
