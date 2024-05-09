@@ -20,8 +20,6 @@ You use git clone to be able to download the documents in the GitHub
 ## Installation Requirements
 Git
 
-
-
 ### Installation instruction
 
 Git clone git@github.com:78cxrlos/Group-project.git
